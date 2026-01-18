@@ -1,6 +1,6 @@
 # 💫 Sobre Mim:
-🎓 Estudante de TI<br>💻 Interesses: Desenvolvimento Web, JS, IA, Desenvolvimento BackEnd e Banco de Dados<br>
-Cursando o Ensino Médio Integrado ao Técnico em Informática para Internet <br>
+🤓 Estudante de TI<br>💻 Interesses: Desenvolvimento Web, JS, IA, Desenvolvimento BackEnd e Banco de Dados<br>
+🎓Cursando o Ensino Médio Integrado ao Técnico em Informática para Internet <br>
 
 
 ## 🌐 Socials:
