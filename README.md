@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🎓 Estudante de TI<br>💻 Interesses: Desenvolvimento Web, JS, IA, Desenvolvimento BackEnd e Banco de Dados<br>📫 Contato: matkut2010@gmail.com<br><br>🖱️HTML, CSS, JavaScript<br> 💻Node.js, Python<br><br>🏦MySQL ⭐ Se gostou de algum projeto, não esqueça de dar um Star!
+🎓 Estudante de TI<br>💻 Interesses: Desenvolvimento Web, JS, IA, Desenvolvimento BackEnd e Banco de Dados<br>📫 Contato: matkut2010@gmail.com<br><br>🖱️HTML, CSS, JavaScript<br>⭐ Se gostou de algum projeto, não esqueça de dar um Star!
 
 
 ## 🌐 Socials:
