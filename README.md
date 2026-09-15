@@ -13,6 +13,7 @@ Cursando Técnico em Informática para internet (desenvolvimento web)
 Projetos aqui
 ## Tecnologias e Linguagens
 
+
 #### Linguagens
 ![JavaScript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
