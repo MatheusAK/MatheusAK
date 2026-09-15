@@ -12,6 +12,7 @@ Cursando Técnico em Informática para internet (desenvolvimento web)
 
 Projetos aqui
 ## Tecnologias e Linguagens
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 
 #### Linguagens
