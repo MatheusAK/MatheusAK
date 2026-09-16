@@ -9,8 +9,8 @@ Cursando Técnico em Informática para internet (desenvolvimento web)
 
 
 ## Projetos
+**Aprendendo a usar o terminal bash** (Repositório)[https://github.com/MatheusAK/Learn-Bash]
 
-Projetos aqui
 ## Tecnologias e Linguagens
 
 #### Linguagens
